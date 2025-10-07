@@ -59,8 +59,7 @@
     ```
     
     - first - second - third 순으로 함수가 호출되지만 실행은 반대 순서로 이루어짐
-    
-    ![image.png](attachment:6f4b5847-79d6-4b9f-a6b5-90254fe2e0e9:image.png)
+
     
     - **콘텍스트**(context) : 함수 호출 시 생성되는 환경, 그림에서는 anonymous 함수를 말함
     - 자바스크립트 코드는 실행 시 기본적으로 전역 콘텍스트 안에서 돌아감
